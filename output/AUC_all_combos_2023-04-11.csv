@@ -1,0 +1,49 @@
+"Climate","Parameters","ClimateChange","AUC"
+"Colorado","Colorado","current",266.386920894873
+"Colorado","Colorado","rcp45",264.627920329527
+"Colorado","Colorado","rcp85",256.504743041874
+"Colorado","Alberta","current",255.833418792464
+"Colorado","Alberta","rcp45",251.129882564476
+"Colorado","Alberta","rcp85",234.421598820371
+"Colorado","South Yukon","current",184.602185017299
+"Colorado","South Yukon","rcp45",182.102490416519
+"Colorado","South Yukon","rcp85",171.206367294594
+"Colorado","North Yukon","current",295.816900466814
+"Colorado","North Yukon","rcp45",291.635176276772
+"Colorado","North Yukon","rcp85",272.890578776278
+"Alberta","Colorado","current",272.547966438002
+"Alberta","Colorado","rcp45",270.883054648375
+"Alberta","Colorado","rcp85",264.533462171363
+"Alberta","Alberta","current",273.860752443013
+"Alberta","Alberta","rcp45",268.759681826291
+"Alberta","Alberta","rcp85",251.577488383173
+"Alberta","South Yukon","current",195.200761305119
+"Alberta","South Yukon","rcp45",192.361007335627
+"Alberta","South Yukon","rcp85",181.725735981488
+"Alberta","North Yukon","current",310.14556413767
+"Alberta","North Yukon","rcp45",306.261086075372
+"Alberta","North Yukon","rcp85",291.682948490273
+"South Yukon","Colorado","current",281.754572550896
+"South Yukon","Colorado","rcp45",278.171825985326
+"South Yukon","Colorado","rcp85",269.044163485249
+"South Yukon","Alberta","current",283.497533215595
+"South Yukon","Alberta","rcp45",276.041982854334
+"South Yukon","Alberta","rcp85",258.283732840276
+"South Yukon","South Yukon","current",204.439773940766
+"South Yukon","South Yukon","rcp45",199.067896320076
+"South Yukon","South Yukon","rcp85",185.352088552604
+"South Yukon","North Yukon","current",317.365868954028
+"South Yukon","North Yukon","rcp45",311.27853855427
+"South Yukon","North Yukon","rcp85",296.206022462144
+"North Yukon","Colorado","current",291.617902298878
+"North Yukon","Colorado","rcp45",287.307620249132
+"North Yukon","Colorado","rcp85",276.469786124764
+"North Yukon","Alberta","current",295.81402740381
+"North Yukon","Alberta","rcp45",287.249215749064
+"North Yukon","Alberta","rcp85",268.765732259322
+"North Yukon","South Yukon","current",216.647970417921
+"North Yukon","South Yukon","rcp45",209.446242258261
+"North Yukon","South Yukon","rcp85",194.157030522314
+"North Yukon","North Yukon","current",326.937152060099
+"North Yukon","North Yukon","rcp45",320.115204155321
+"North Yukon","North Yukon","rcp85",305.552406928803
